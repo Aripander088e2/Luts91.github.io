@@ -365,11 +365,11 @@
         "desc": "Work 2 times faster for 8 minutes (affected by tickspeed)"
       },
       "i_cocaine": {
-        "name": "Cocaine",
+        "name": "Coca-Cola",
         "desc": "Learn 2 times faster for 20 minutes (affected by tickspeed)"
       },
       "i_meth": {
-        "name": "Meth",
+        "name": "Math",
         "desc": "Work 2 times faster for 40 minutes (affected by tickspeed)"
       },
       "i_motivationalCourse": {
@@ -381,7 +381,7 @@
         "desc": "Work 2 times faster for 1 hour (affected by tickspeed)"
       },
       "i_spaceCrack": {
-        "name": "Space Crack",
+        "name": "Space Cream",
         "desc": "Learn 2 times faster for 1 hour (affected by tickspeed)"
       },
       "i_bodyEnhancement": {
