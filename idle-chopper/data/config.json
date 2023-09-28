@@ -106,7 +106,7 @@
             "earth": "earth",
             "grass": "grass",
             "grasshalms": "grasshalms",
-            "def": 0.0004,
+            "def": 0.004,
             "xp": 250,
             "neededLevel": 0
         },
@@ -117,8 +117,8 @@
             "earth": "earth",
             "grass": "snow",
             "grasshalms": "snowhalms",
-            "def": 5,
-            "xp": 2,
+            "def": 0.005,
+            "xp": 250,
             "neededLevel": 80,
             "neededId": 0
         },
