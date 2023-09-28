@@ -106,8 +106,8 @@
             "earth": "earth",
             "grass": "grass",
             "grasshalms": "grasshalms",
-            "def": 0.01,
-            "xp": 100,
+            "def": 0.0001,
+            "xp": 1000,
             "neededLevel": 0
         },
         {
