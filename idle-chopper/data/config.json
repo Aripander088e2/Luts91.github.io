@@ -106,8 +106,8 @@
             "earth": "earth",
             "grass": "grass",
             "grasshalms": "grasshalms",
-            "def": 0.004,
-            "xp": 250,
+            "def": 1e-5,
+            "xp": 1e4,
             "neededLevel": 0
         },
         {
@@ -117,9 +117,9 @@
             "earth": "earth",
             "grass": "snow",
             "grasshalms": "snowhalms",
-            "def": 0.005,
-            "xp": 250,
-            "neededLevel": 80,
+            "def": 5,
+            "xp": 2,
+            "neededLevel": 4,
             "neededId": 0
         },
         {
@@ -131,7 +131,7 @@
             "grasshalms": "darkGrasshalms",
             "def": 10,
             "xp": 2.5,
-            "neededLevel": 80,
+            "neededLevel": 8,
             "neededId": 0
         },
         {
@@ -143,7 +143,7 @@
             "grasshalms": "tundraGrasshalms",
             "def": 25,
             "xp": 4,
-            "neededLevel": 80,
+            "neededLevel": 8,
             "neededId": 1
         },
         {
@@ -155,7 +155,7 @@
             "grasshalms": "sandGrasshalms",
             "def": 50,
             "xp": 5,
-            "neededLevel": 80,
+            "neededLevel": 8,
             "neededId": 2
         },
         {
