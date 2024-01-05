@@ -66,22 +66,22 @@
             {
                 "cost": 2000000,
                 "costIncrease": 2000,
-                "ascentIncrease": 100000000000000000000000000
+                "ascentIncrease": 100000000000000000000000
             },
             {
                 "cost": 40000000,
                 "costIncrease": 3000,
-                "ascentIncrease": 1000000000000000000000000000000
+                "ascentIncrease": 1000000000000000000000000000
             },
             {
                 "cost": 800000000,
                 "costIncrease": 4000,
-                "ascentIncrease": 10000000000000000000000000000000000
+                "ascentIncrease": 10000000000000000000000000000000
             },
             {
                 "cost": 16000000000,
                 "costIncrease": 5000,
-                "ascentIncrease": 100000000000000000000000000000000000000
+                "ascentIncrease": 100000000000000000000000000000000000
             }
         ]
     }
