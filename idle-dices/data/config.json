@@ -17,71 +17,71 @@
         "main": [
             {
                 "startD": 2,
-                "cost": 10,
+                "cost": 1,
                 "value": 0,
-                "costIncrease": 1.08,
+                "costIncrease": 1.04,
                 "valueIncrease": 1,
                 "initialLevel": 1,
-                "ascentIncrease": 100000
+                "ascentIncrease": 1000
+            },
+            {
+                "startD": 2,
+                "cost": 10,
+                "value": 0,
+                "costIncrease": 1.04,
+                "valueIncrease": 2,
+                "ascentIncrease": 1000
             },
             {
                 "startD": 2,
                 "cost": 100,
                 "value": 0,
-                "costIncrease": 1.08,
-                "valueIncrease": 2,
-                "ascentIncrease": 100000
+                "costIncrease": 1.04,
+                "valueIncrease": 4,
+                "ascentIncrease": 1000
             },
             {
                 "startD": 2,
                 "cost": 1000,
                 "value": 0,
-                "costIncrease": 1.08,
-                "valueIncrease": 4,
-                "ascentIncrease": 100000
+                "costIncrease": 1.04,
+                "valueIncrease": 8,
+                "ascentIncrease": 1000
             },
             {
                 "startD": 2,
                 "cost": 10000,
                 "value": 0,
-                "costIncrease": 1.08,
-                "valueIncrease": 8,
-                "ascentIncrease": 100000
-            },
-            {
-                "startD": 2,
-                "cost": 100000,
-                "value": 0,
-                "costIncrease": 1.08,
+                "costIncrease": 1.04,
                 "valueIncrease": 16,
-                "ascentIncrease": 100000
+                "ascentIncrease": 1000
             }
         ],
         "multi":[
             {
-                "cost": 10000000,
-                "costIncrease": 10000,
+                "cost": 100000,
+                "costIncrease": 1000,
+                "ascentIncrease": 100000000000000000000000000000
+            },
+            {
+                "cost": 2000000,
+                "costIncrease": 2000,
+                "ascentIncrease": 1000000000000000000000000000000000
+            },
+            {
+                "cost": 40000000,
+                "costIncrease": 3000,
                 "ascentIncrease": 10000000000000000000000000000000000000
             },
             {
-                "cost": 200000000,
-                "costIncrease": 20000,
+                "cost": 800000000,
+                "costIncrease": 4000,
                 "ascentIncrease": 100000000000000000000000000000000000000000
             },
             {
-                "cost": 4000000000,
-                "costIncrease": 30000,
+                "cost": 16000000000,
+                "costIncrease": 5000,
                 "ascentIncrease": 1000000000000000000000000000000000000000000000
-            },
-            {
-                "cost": 80000000000,
-                "costIncrease": 40000,
-                "ascentIncrease": 10000000000000000000000000000000000000000000000000
-            },
-            {
-                "cost": 1600000000000,
-                "costIncrease": 50000,
-                "ascentIncrease": 100000000000000000000000000000000000000000000000000000
             }
         ]
     }
