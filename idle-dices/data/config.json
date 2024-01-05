@@ -12,49 +12,49 @@
         "gray": "#808080",
         "white": "#ffffff"
     },
-    "diceTypes": [2,4,6,8,10,12,20,100],
+    "diceTypes": [2,4,6,8,10,12,20,400],
     "dices": {
         "main": [
             {
                 "startD": 2,
                 "cost": 1,
                 "value": 0,
-                "costIncrease": 1.025,
+                "costIncrease": 1.03,
                 "valueIncrease": 1,
                 "initialLevel": 1,
-                "ascentIncrease": 100
+                "ascentIncrease": 400
             },
             {
                 "startD": 2,
                 "cost": 10,
                 "value": 0,
-                "costIncrease": 1.025,
+                "costIncrease": 1.03,
                 "valueIncrease": 4,
-                "ascentIncrease": 100
+                "ascentIncrease": 400
             },
             {
                 "startD": 2,
                 "cost": 100,
                 "value": 0,
-                "costIncrease": 1.025,
+                "costIncrease": 1.03,
                 "valueIncrease": 16,
-                "ascentIncrease": 100
+                "ascentIncrease": 400
             },
             {
                 "startD": 2,
                 "cost": 1000,
                 "value": 0,
-                "costIncrease": 1.025,
+                "costIncrease": 1.03,
                 "valueIncrease": 64,
-                "ascentIncrease": 100
+                "ascentIncrease": 400
             },
             {
                 "startD": 2,
                 "cost": 10000,
                 "value": 0,
-                "costIncrease": 1.025,
+                "costIncrease": 1.03,
                 "valueIncrease": 256,
-                "ascentIncrease": 100
+                "ascentIncrease": 400
             }
         ],
         "multi":[
